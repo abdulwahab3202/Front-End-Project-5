@@ -1,0 +1,70 @@
+.header{
+    display: flex;
+    color: white;
+    margin: 80px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 25px;
+}
+.txt{
+    margin-left: 30px;
+}
+.container{
+    margin: 80px;
+}
+button{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(40, 214, 40);
+    color: rgb(48, 43, 43);
+}
+.main{
+    color: white;
+    margin-left: 20px;
+}
+.first{
+    display: flex;
+    margin-bottom: 20px;
+}
+.second{
+    display: flex;
+}
+.one{
+    background-color: rgb(41, 38, 38);
+    padding: 30px;
+    border-radius: 7px;
+}
+.four{
+    background-color: rgb(41, 38, 38);
+    padding: 30px;
+    border-radius: 7px;
+}
+.two{
+    margin-left: 50px;
+    background-color: rgb(41, 38, 38);
+    padding: 30px;
+    border-radius: 7px;
+}
+.three{
+    margin-left: 50px;
+    background-color: rgb(41, 38, 38);
+    padding: 30px;
+    border-radius: 7px;
+}
+.five{
+    margin-left: 50px;
+    background-color: rgb(41, 38, 38);
+    padding: 30px;
+    border-radius: 7px;
+}
+.six{
+    margin-left: 50px;
+    background-color: rgb(41, 38, 38);
+    padding: 30px;
+    border-radius: 7px;
+}
